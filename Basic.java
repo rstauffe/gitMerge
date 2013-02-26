@@ -1,7 +1,7 @@
 
 public class Basic {
 
-	
-	public String Modify;
+
+//	public String Modify;
 	private int amtOfUnderstanding = 0;
 }
